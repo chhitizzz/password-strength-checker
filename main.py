@@ -13,6 +13,13 @@ length = len(password)
 
 score = 0
 
+with open("common_passwords.txt", "r") as f:
+    common = f.read().splitlines()
+
+if password in common:
+    print("Password was found in a common list. Score: 0/7")
+    exit()
+
 if length > 8:
     score += 1
 if length > 12:
