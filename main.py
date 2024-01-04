@@ -1,6 +1,6 @@
 import string
 
-password = "helloworld"
+password = input("Enter a password: ")
 
 upper_case = any([1 if c in string.ascii_uppercase else 0 for c in password])
 lower_case = any([1 if c in string.ascii_lowercase else 0 for c in password])
