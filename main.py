@@ -29,3 +29,22 @@ if length > 16:
 if length > 20:
     score += 1
 print(f"Password length is {str(length)}, adding {str(score)} points!")
+
+if sum(characters) > 1:
+    score += 1
+if sum(characters) > 2:
+    score += 1
+if sum(characters) > 3:
+    score += 1
+print(
+    f"Password has {str(sum(characters))} different character types, adding {str(sum(characters) - 1)} points!"
+)
+
+if score < 4:
+    print(f"The password is quite weak! Score: {str(score)} / 7")
+elif score == 4:
+    print(f"The password is ok! Score: {str(score)} / 7")
+elif 4 < score < 6:
+    print(f"The password is pretty good! Score: {str(score)} / 7")
+elif score > 6:
+    print(f"The password is strong! Score: {str(score)} / 7")
