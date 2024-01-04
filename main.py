@@ -28,3 +28,4 @@ if length > 16:
     score += 1
 if length > 20:
     score += 1
+print(f"Password length is {str(length)}, adding {str(score)} points!")
