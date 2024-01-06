@@ -32,10 +32,10 @@ This password strength checker does not have external dependencies. It uses Pyth
 ## Screenshots
 
 
-    <img width="293" alt="Screenshot 2024-01-06 100956" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/0832e541-54f5-40b9-b662-5385deab8efc">
+<img width="293" alt="Screenshot 2024-01-06 100956" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/0832e541-54f5-40b9-b662-5385deab8efc">
 
-    <img width="357" alt="Screenshot 2024-01-06 101019" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/4fb5daef-c3e1-4307-b747-663ac830a76f">
+<img width="357" alt="Screenshot 2024-01-06 101019" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/4fb5daef-c3e1-4307-b747-663ac830a76f">
 
-    <img width="356" alt="Screenshot 2024-01-06 101040" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/44e80c89-15c2-4087-a0c3-7ed894776dfb">
+<img width="356" alt="Screenshot 2024-01-06 101040" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/44e80c89-15c2-4087-a0c3-7ed894776dfb">
 
-    <img width="357" alt="Screenshot 2024-01-06 101101" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/897ac87d-714e-4f63-9444-202716f9a858">
+<img width="357" alt="Screenshot 2024-01-06 101101" src="https://github.com/chhitizzz/password-strength-checker/assets/137091888/897ac87d-714e-4f63-9444-202716f9a858">
